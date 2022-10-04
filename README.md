@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Banner](/img/banner.png)
+
 <!--
 **DenisKealy/DenisKealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
