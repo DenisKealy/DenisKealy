@@ -5,12 +5,13 @@
 ![Banner](/img/banner.png)
 
 <h1 align="center"></h1>
+<h3></h3>
 
 <p align="center"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300"  /></p>
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"></p>
+<h2 align="center">HELLO THERE<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></h2>
 
 <h3 align="left">🧑‍💻 &nbsp;About Me</h3>
-I am a software developer and data scientist who specialises in machine learning, data acquisition, processing, visualisation, and analytics. I have completed a B.Sc. in Software Engineering and a M.Sc. in Data Analytics. I am currently working on freelance projects.
+I am a software developer and data scientist who specializes in machine learning, data acquisition, processing, visualization, and analytics. I have completed a B.Sc. in Software Engineering and a M.Sc. in Data Analytics. I am currently working on freelance projects.
 
 
 <h3 align="left">🛠 &nbsp;Languages and Tools </h3>
