@@ -7,8 +7,8 @@
 <h1></h1>
 
 <!-- Hello there image and text -->
-<img align="right" src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300"  />
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> <br /><br /> Hello there!</h3>
+<img align="right" src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="550" height="300"  />
+<h3 align="center"><br /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> <br />Hello there!</h3>
 
 <h3></h3> 
 
