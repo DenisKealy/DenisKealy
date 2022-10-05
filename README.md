@@ -7,9 +7,10 @@
 <h1></h1>
 
 <!-- Hello there image and text -->
+<center>
 | **Hello there!** <br /><br />[<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) | ![<img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="700"/>](https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif) |
 | :---: | :---: |
-
+</center>
 <h3></h3> 
 
 <h3 align="left">🧑‍💻 &nbsp;About Me</h3>
