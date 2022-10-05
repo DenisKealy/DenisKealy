@@ -4,9 +4,42 @@
 
 ![Banner](/img/banner.png)
 
-<div>
-    <h3 align="right" style="top: 50%;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br /> Hello there!</h3>
-    <p align="left"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300"  /></p>
+
+<style>
+#container {
+    width: 300px;
+    margin: auto;
+}
+#first {
+    width: 150px;
+    float: left;
+    height: 300px;
+}
+#second {
+    width: 600px;
+    float: left;
+    height: 300px;
+}
+#clear {
+    clear: both;
+}
+</style>
+
+<!-- <div id="container">
+    <div id="first">text</div>
+    <div id="second">text2</div>
+    <div id="clear"></div>
+</div> -->
+
+
+<div id="container">
+    <div class="first">
+        <h3 align="center" style="top: 50%;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br /> Hello there!</h3>
+    </div>
+    <div class="second">
+        <p align="center"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300"  /></p>
+    </div>
+    <div id="clear"></div>
 </div>
 
 <h3></h3>
