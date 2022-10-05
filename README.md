@@ -4,9 +4,9 @@
 
 ![Banner](/img/banner.png)
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"> <br /> Hello there! I'm Denis</h1>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br /> Hello there!</h3>
 
-<p align="center"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300"  /></p>
+<p align="left"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300"  /></p>
 
 <h3></h3>
 
