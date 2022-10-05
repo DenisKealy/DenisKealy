@@ -59,8 +59,6 @@ I am a software developer and data scientist who specializes in machine learning
 <a href="https://www.youtube.com/channel/UCOiH6V_DWU94fMqfwc30GYg"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
-![footer](/img/footer.png)
-
 <!--
 Prompts:
 
