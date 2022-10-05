@@ -6,8 +6,16 @@
 
 <h1 align="center"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></p>
-<p align="center"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300"  /></p>
+<div style='position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);'>
+    <div style='display: inline-block; top: 50%; padding-right: 30px;'>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+    </div>
+    <div style='display: inline-block; top:50%; padding-left: 30px'>
+        <img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300" />
+    </div>
+</div>
+
+
 
 <h3></h3>
 <h3 align="left">🧑‍💻 &nbsp;About Me</h3>
