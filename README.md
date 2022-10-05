@@ -4,10 +4,11 @@
 
 ![Banner](/img/banner.png)
 
+<h1></h1>
+
 <!-- Hello there image and text -->
 <img align="right" src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="550" height="300"  />
-<div><h3 align="center" style="line-height: 50px; padding-top: 100px;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> <br /> Hello there!</h3></div>
-
+<div style="padding: 100px"><h3 align="center" style="line-height: 50px;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> <br /> Hello there!</h3></div>
 
 <h3></h3> 
 
