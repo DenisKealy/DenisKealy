@@ -12,9 +12,10 @@
 
 <h3></h3> 
 
-<h3 align="left">🧑‍💻 &nbsp;About Me</h3>
+<h3 align="center">🧑‍💻 &nbsp;About Me</h3>
 I am a software developer and data scientist who specializes in machine learning, data acquisition, processing, visualization, and analytics. I have completed a B.Sc. in Software Engineering and a M.Sc. in Data Analytics. I am currently working on freelance projects.
 
+<h3></h3> 
 
 <h3 align="left">🛠 &nbsp;Languages and Tools </h3>
 
