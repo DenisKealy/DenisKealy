@@ -5,15 +5,9 @@
 ![Banner](/img/banner.png)
 
 <!-- Hello there image and text -->
-<span style="width: 100%; display: inline;">
-    <span style="width: 100px; height: 294px; display: inline-block; line-height: 50px; vertical-align: middle; padding: 0px 10px 30px 10px;">
-        <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br /> Hello there!</div>
-    </span>
-    <div style="width: 440px; height: 235px; display: inline-block;">
-        <div align="center"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="440" height="235"  /></div>
-    </span>
-    <span style="clear: both;"></span>
-</span>
+<img align="right" src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="550" height="300"  />
+<div><h3 align="center" style="line-height: 50px; padding-top: 100px;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> <br /> Hello there!</h3></div>
+
 
 <h3></h3> 
 
