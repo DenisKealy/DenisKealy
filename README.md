@@ -6,14 +6,16 @@
 
 <h1 align="center"></h1>
 
+
 <div style='position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);'>
-    <div style='display: inline-block; top: 50%; padding-right: 30px;'>
+    <div style='display: inline-block; top: 50%; padding-right: 20px;'>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
     </div>
-    <div style='display: inline-block; top:50%; padding-left: 30px'>
+    <div style='display: inline-block; top:50%; padding-left: 20px'>
         <img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" width="600" height="300" />
     </div>
 </div>
+
 
 
 
