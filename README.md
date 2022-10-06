@@ -7,8 +7,8 @@
 <h1></h1>
 
 <!-- Hello there image and text -->
-<h3>Hello there!</h3>
-<h3>[<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)</h3>
+<h3 align="center">Hello there!</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></h3>
 
 ![Hello there](https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif) 
 
