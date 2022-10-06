@@ -7,12 +7,12 @@
 <h1></h1>
 
 <!-- Hello there image and text -->
-| **Hello there!** <br /><br />[<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)<br /> |
-| :---: | 
-| ![Hello there](https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif)  |
+<h3>Hello there!</h3>
+<h3>[<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)</h3>
 
+![Hello there](https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif) 
 
-<h3></h3> 
+<h1></h1>
 
 <h3 align="left">🧑‍💻 &nbsp;About Me</h3>
 I am a software developer and data scientist who specializes in machine learning, data acquisition, processing, visualization, and analytics. I have completed a B.Sc. in Software Engineering and a M.Sc. in Data Analytics. I am currently working on freelance projects.
