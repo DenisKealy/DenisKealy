@@ -57,7 +57,7 @@ I am a software developer and data scientist who specializes in machine learning
 
 <p align="center">
 <a href="https://www.linkedin.com/in/deniskealy/"><img src="https://img.shields.io/badge/-Denis Kealy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:deniskealyandroid@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:deniskealyfreelance@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCOiH6V_DWU94fMqfwc30GYg"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
