@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer & Data Scientist</h1>
+<h1 align="center">Data Scientist & Software Engineer</h1>
 
 <h3 align="center">Scientific Computing | Software Development | Data Processing & Analysis | Academic Writing</h3>
 
