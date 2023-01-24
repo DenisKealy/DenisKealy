@@ -6,14 +6,6 @@
 
 <h1></h1>
 
-<!-- Hello there image and text -->
-<h3 align="center">Hello there!</h3>
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></h3>
-
-<p align="center"><img src="https://c.tenor.com/y8PUZVUbbrwAAAAC/tenor.gif" ></p>
-
-<h1></h1>
-
 <h3 align="left">🧑‍💻 &nbsp;About Me</h3>
 I am a data scientist  and software developer who specializes in machine learning, data acquisition, processing, visualization, and analytics. I have a B.Sc. in Software Engineering and a M.Sc. in Data Analytics. I am currently working on freelance projects.
 
@@ -45,11 +37,6 @@ I am a data scientist  and software developer who specializes in machine learnin
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" **alt="Gimp" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Code" **alt="Code" width="50" height="50"/>&nbsp;
 </p>
-
-<h3 align="left">🔥 &nbsp; Github Stats </h3>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniskealy&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="left" ><img src="https://github-readme-streak-stats.herokuapp.com?user=deniskealy&theme=chartreuse-dark"></p>
 
 <h1></h1>
 
